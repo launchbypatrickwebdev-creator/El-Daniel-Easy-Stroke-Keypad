@@ -1,4 +1,4 @@
-# El-Daniel-Keypad 🕊️
+# El-Daniel-Keypad
 
 **Precision and Clarity in Every Swipe.**
 
