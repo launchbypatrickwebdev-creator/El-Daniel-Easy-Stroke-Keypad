@@ -5,30 +5,30 @@
     android:viewportHeight="108">
 
     <group
-        android:translateX="30"
-        android:translateY="14"
+        android:translateX="42"
+        android:translateY="29"
         android:scaleX="2.0"
         android:scaleY="2.0">
 
         <path
             android:fillColor="#FFD700"
-            android:pathData="M 9.5,5.5
-                              C 9.5,3.8 10.5,3.0 12.0,3.0
-                              C 13.5,3.0 14.5,3.8 14.5,5.5
-                              L 14.5,6.2
-                              L 9.5,6.2
+            android:pathData="M 2.5,2.5
+                              C 2.5,0.8 3.5,0.0 5.0,0.0
+                              C 6.5,0.0 7.5,0.8 7.5,2.5
+                              L 7.5,3.2
+                              L 2.5,3.2
                               Z" />
 
         <path
             android:fillColor="#FFD700"
-            android:pathData="M 9.5,8.0
-                              L 14.5,8.0
-                              A 0.5,0.5 0 0 1 15,8.5
-                              L 15,20.0
-                              A 3.0,3.0 0 0 1 12.0,23.0
-                              A 3.0,3.0 0 0 1 9.0,20.0
-                              L 9.0,8.5
-                              A 0.5,0.5 0 0 1 9.5,8.0
+            android:pathData="M 2.5,5.0
+                              L 7.5,5.0
+                              A 0.5,0.5 0 0 1 8,5.5
+                              L 8,17.0
+                              A 3.0,3.0 0 0 1 5.0,20.0
+                              A 3.0,3.0 0 0 1 2.0,17.0
+                              L 2.0,5.5
+                              A 0.5,0.5 0 0 1 2.5,5.0
                               Z" />
     </group>
 </vector>
