@@ -5,6 +5,7 @@ El-Daniel-Keypad is an Android IME (Input Method Editor) designed to replace the
 
 ## 📸 Media Preview
 ![El Daniel Keypad Interface Architecture](assets/layout_preview.jpg)
+![El Daniel Keypad Interface Architecture](assets/layout_previews.jpg)
 
 ### See the 360° Two-Finger Tapdown Pivot in Action:
 ![Two-Finger Tapdown Demonstration Video](assets/game_stroke_demo.gif)
