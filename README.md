@@ -3,6 +3,12 @@
 
 El-Daniel-Keypad is an Android IME (Input Method Editor) designed to replace the clutter of 30+ tiny buttons with 8 clear directional paths. Inspired by the clarity and excellence of Daniel, this keypad is built for seniors, high speed typists, and anyone seeking a more intentional way to communicate.
 
+## 📸 Media Preview
+![El Daniel Keypad Interface Architecture](assets/layout_preview.jpg)
+
+### See the 360° Two-Finger Tapdown Pivot in Action:
+![Two-Finger Tapdown Demonstration Video](assets/game_stroke_demo.gif)
+
 ## ✨ Key Features
 - **Swift Daniel Logic:** Vowels (↑), Power Consonants (→), and Flow Consonants (↓) are just a swipe away.
 - **Aggressive Swipe-to-Delete:** No more hunting for a backspace button; a long swipe left clears your path.
