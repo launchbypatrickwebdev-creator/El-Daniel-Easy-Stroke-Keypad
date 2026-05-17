@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">El Daniel</string>
+
+    <!-- Settings Screen Labels -->
+    <string name="settings_title">El-Daniel Keypad Settings</string>
+    <string name="typing_speed">Typing Response Speed</string>
+    <string name="default_delay_text">400ms</string>
+    <string name="vibration_label">Tactile Vibration (Click)</string>
+    <string name="vibration_desc">Provides a subtle click feeling when you swipe.</string>
+    <string name="stewardship_mission">Your support fuels the EchoLevel Sentinel mission: building sovereign communication and sustainable water infrastructure for all. Every donation keeps our code independent and our vision moving forward.</string>
+    <string name="btn_donate_label">Support the Mission (Donate)</string>
+    <string name="general_char_count">Chars: %1$d</string>
+    <string name="sms_segment_count">%1$d/%2$d</string>
+
+    <!-- Dynamic Placeholder for the Slider -->
+    <string name="speed_display">%1$dms</string>
+</resources>
