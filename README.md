@@ -14,7 +14,7 @@ El-Daniel-Keypad is an Android IME (Input Method Editor) designed to replace the
 - **Send & Return:** Dedicated buttons for instant communication and line breaks.
 
 ### See the 360° Two-Finger Tapdown Pivot in Action:
-![Two-Finger Tapdown Demonstration Video](assets/keypad_stroke_demo.mp4)
+![Two-Finger Tapdown Demonstration Video](https://github.com/user-attachments/assets/7861eaa2-059a-45cd-ad91-7422c86d257b)
 
 ## 🌍 The Mission & Open Contributions
 We are actively expanding the core engine and looking for developers, designers, and language experts to collaborate with us! 
