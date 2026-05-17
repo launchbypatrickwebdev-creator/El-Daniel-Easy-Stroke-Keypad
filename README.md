@@ -7,19 +7,23 @@ El-Daniel-Keypad is an Android IME (Input Method Editor) designed to replace the
 ![El Daniel Keypad Interface Architecture](assets/layout_preview.jpg)
 ![El Daniel Keypad Interface Architecture](assets/layout_previews.jpg)
 
-### See the 360° Two-Finger Tapdown Pivot in Action:
-![Two-Finger Tapdown Demonstration Video](assets/game_stroke_demo.gif)
-
 ## ✨ Key Features
 - **Swift Daniel Logic:** Vowels (↑), Power Consonants (→), and Flow Consonants (↓) are just a swipe away.
 - **Aggressive Swipe-to-Delete:** No more hunting for a backspace button; a long swipe left clears your path.
 - **Two-Finger Tapdown Pivot:** Anchor direction with a 1-finger tapdown and tap with another finger to instantly execute actions across a full 360-degree directional space.
 - **Send & Return:** Dedicated buttons for instant communication and line breaks.
 
-## 🌍 The Mission
-We are looking for developers to help us expand:
-- **Language Localization:** Help us map the 8 directions for Spanish, Arabic, French, and more.
-- **Accessibility:** Improving haptic feedback for users with visual impairments.
+### See the 360° Two-Finger Tapdown Pivot in Action:
+![Two-Finger Tapdown Demonstration Video](assets/keypad_stroke_demo.mp4)
+
+## 🌍 The Mission & Open Contributions
+We are actively expanding the core engine and looking for developers, designers, and language experts to collaborate with us! 
+
+If you want to contribute, please dive straight into our active roadmap threads on the [GitHub Discussions](../../discussions) board:
+
+* **🌐 Language Localization:** Help us map and optimize the **4 absolute directions** to natively support Spanish, Arabic, French, and more. Join the localization discussion thread.
+* **♿ Accessibility Integration:** Help us improve and customize haptic feedback patterns to maximize typing clarity for users with visual impairments. Join the accessibility design thread.
+* **🎮 Custom Gaming Strokes:** Share your configuration scripts, layout maps, and multi-touch combo ideas for mobile gaming before we drop the dedicated controller layout.
 
 ## ⚖️ Licensing, Attribution & Sustenance Rules
 
