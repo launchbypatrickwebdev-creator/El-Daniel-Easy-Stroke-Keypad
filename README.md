@@ -6,7 +6,7 @@ El-Daniel-Keypad is an Android IME (Input Method Editor) designed to replace the
 ## ✨ Key Features
 - **Swift Daniel Logic:** Vowels (↑), Power Consonants (→), and Flow Consonants (↓) are just a swipe away.
 - **Aggressive Swipe-to-Delete:** No more hunting for a backspace button; a long swipe left clears your path.
-- **Multitap Cycling:** Tap the center to cycle through characters in a block, then swipe to commit.
+- **Two-Finger Tapdown Pivot:** Anchor direction with a 1-finger tapdown and tap with another finger to instantly execute actions across a full 360-degree directional space.
 - **Send & Return:** Dedicated buttons for instant communication and line breaks.
 
 ## 🌍 The Mission
@@ -36,3 +36,4 @@ To keep the core engine maintained and moving forward, any developer or entity t
 
 For commercial licensing clearances, institutional partnerships, or to buy out the open-source restriction, route your queries here:
 👉 [Secure a Commercial License / Support the Mission](https://paystack.shop/pay/launchbypatrick_mission)
+📩 **Official Contact Email:** [Launchbypatrick.webdev@gmail.com]
