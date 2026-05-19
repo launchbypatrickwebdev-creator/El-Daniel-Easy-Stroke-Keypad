@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">El Daniel</string>
 
-    <!-- Settings Screen Labels -->
     <string name="settings_title">El-Daniel Keypad Settings</string>
     <string name="typing_speed">Typing Response Speed</string>
     <string name="default_delay_text">400ms</string>
@@ -12,6 +12,11 @@
     <string name="general_char_count">Chars: %1$d</string>
     <string name="sms_segment_count">%1$d/%2$d</string>
 
-    <!-- Dynamic Placeholder for the Slider -->
     <string name="speed_display">%1$dms</string>
+
+    <string name="btn_pause_start">PAUSE / START</string>
+    <string name="sym_triangle">△</string>
+    <string name="sym_square">▢</string>
+    <string name="sym_circle">◯</string>
+    <string name="sym_cross">╳</string>
 </resources>

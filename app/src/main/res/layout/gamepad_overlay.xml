@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <TextView
+        android:id="@+id/btn_pause_start"
+        android:layout_width="140dp"
+        android:layout_height="36dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:background="#A02A2D32"
+        android:gravity="center"
+        android:text="@string/btn_pause_start"
+        android:textColor="#FFD700"
+        android:textSize="11sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/left_steering_domain"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="24dp"
+        android:background="#20FFFFFF">
+
+        <View
+            android:id="@+id/analog_stick_pivot"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerInParent="true"
+            android:background="#60FFFFFF" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/action_diamond_cluster"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp">
+
+        <TextView
+            android:id="@+id/btn_triangle"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="#802A2D32"
+            android:gravity="center"
+            android:text="@string/sym_triangle"
+            android:textColor="#FFD700"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/btn_square"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:background="#802A2D32"
+            android:gravity="center"
+            android:text="@string/sym_square"
+            android:textColor="#FFD700"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/btn_circle"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:background="#802A2D32"
+            android:gravity="center"
+            android:text="@string/sym_circle"
+            android:textColor="#FFD700"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/btn_cross"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="#802A2D32"
+            android:gravity="center"
+            android:text="@string/sym_cross"
+            android:textColor="#FFD700"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/skill_modifier_zone"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:layout_above="@id/action_diamond_cluster"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="8dp"
+        android:background="#AA2A2D32">
+
+        <View
+            android:layout_width="40dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center"
+            android:background="#FFD700"
+            android:alpha="0.5" />
+    </FrameLayout>
+
+</RelativeLayout>
