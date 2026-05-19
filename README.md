@@ -20,7 +20,7 @@ El-Daniel-Keypad is an Android IME (Input Method Editor) designed to replace the
 
 If you are on an Android device and want to test the keypad layout immediately without building from source, you can install our pre-compiled package directly:
 
-1. **Download the App:** Click here to download the latest stable mobile file: [👉 Download El-Daniel Keypad APK (Latest Beta Version)](https://github.com/launchbypatrickwebdev-creator/El-Daniel-Easy-Stroke-Keypad/releases/tag/v1.0.0)
+1. **Download the App:** Click here to download the latest stable mobile file: [👉 Download El-Daniel Keypad APK (Latest Beta Version)](https://github.com/launchbypatrickwebdev-creator/El-Daniel-Easy-Stroke-Keypad/releases/download/v1.0.0/El-Daniel-Keypad-v1.0-Beta.apk)
 2. **Allow Installation:** When opening the downloaded file, your device might prompt you with a security warning regarding "Unknown Sources" or installing apps from your browser. 
    - *Go to your phone's Settings > Apps > Special App Access > Install Unknown Apps > Toggle "Allow from this source" for your Browser/Files app.*
 3. **Activate the Input Method:** Once installed, open your Android System Settings, navigate to **Languages & Input > On-screen Keyboard / Manage Keyboards**, and switch the toggle switch to **ON** for **El-Daniel Keypad**.
