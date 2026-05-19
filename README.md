@@ -41,7 +41,7 @@ This project is open-source under the terms of the **GNU General Public License 
 ### 1. Mandatory Source Attribution (No Content Theft)
 You are permitted to modify this codebase, but you **CANNOT** distribute or publish any modified version on any platform (GitHub, Google Play Store, specialized gaming forums, etc.) without prominent, explicit reference to the original source. 
 * Any derivative work must state clearly at the top of the documentation and in the app's "About/Settings" section: 
-  **"Based on the original El Daniel Keypad architecture by EchoLevel Sentinel LTD (LaunchByPatrick)."**
+  **"Based on the original El Daniel Keypad architecture by EchoLevel Sentinel LTD (A LaunchByPatrick Innovation)."**
 * You must include a functioning, clickable hyperlink back to this original repository.
 
 ### 2. The Sustenance Covenant (Mandatory Support Routing)
