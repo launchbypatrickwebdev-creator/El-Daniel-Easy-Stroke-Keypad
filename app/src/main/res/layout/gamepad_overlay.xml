@@ -40,10 +40,10 @@
         android:id="@+id/action_diamond_cluster"
         android:layout_width="180dp"
         android:layout_height="180dp"
-        android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginEnd="24dp"
-        android:layout_marginBottom="24dp">
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="43dp">
 
         <TextView
             android:id="@+id/btn_triangle"
@@ -62,8 +62,8 @@
             android:id="@+id/btn_square"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:layout_centerVertical="true"
             android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
             android:background="#802A2D32"
             android:gravity="center"
             android:text="@string/sym_square"
@@ -75,8 +75,8 @@
             android:id="@+id/btn_circle"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:layout_centerVertical="true"
             android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
             android:background="#802A2D32"
             android:gravity="center"
             android:text="@string/sym_circle"
@@ -104,16 +104,16 @@
         android:layout_height="50dp"
         android:layout_above="@id/action_diamond_cluster"
         android:layout_alignParentEnd="true"
-        android:layout_marginEnd="64dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="206dp"
+        android:layout_marginBottom="-209dp"
         android:background="#AA2A2D32">
 
         <View
             android:layout_width="40dp"
             android:layout_height="24dp"
             android:layout_gravity="center"
-            android:background="#FFD700"
-            android:alpha="0.5" />
+            android:alpha="0.5"
+            android:background="#FFD700" />
     </FrameLayout>
 
 </RelativeLayout>

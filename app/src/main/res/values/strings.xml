@@ -7,7 +7,7 @@
     <string name="default_delay_text">400ms</string>
     <string name="vibration_label">Tactile Vibration (Click)</string>
     <string name="vibration_desc">Provides a subtle click feeling when you swipe.</string>
-    <string name="stewardship_mission">Your support fuels the EchoLevel Sentinel mission: building sovereign communication and sustainable water infrastructure for all. Every donation keeps our code independent and our vision moving forward.</string>
+    <string name="stewardship_mission">El-Daniel Keypad is completely free for personal use. If it helps you or someone you care about, consider supporting continued development</string>
     <string name="btn_donate_label">Support the Mission (Donate)</string>
     <string name="general_char_count">Chars: %1$d</string>
     <string name="sms_segment_count">%1$d/%2$d</string>
